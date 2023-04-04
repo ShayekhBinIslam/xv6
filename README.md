@@ -2,4 +2,4 @@
 Scheduling and Memory Management in xv6
 
 ## Scheduling
-Lotter Scheduling Algorithm
+Lottery Scheduling Algorithm
